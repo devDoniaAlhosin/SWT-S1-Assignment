@@ -1,4 +1,4 @@
-# SerratedDisc
+# Assignment 1 
 
 A simple Java console program that:
 
